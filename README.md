@@ -1,5 +1,5 @@
 # Operating Systems Lab
-University operating system course lab part
+College Operaing System lab programs, &emsp;[IIITDM Kancheepuram, chennai](http://www.iiitdm.ac.in)
 
 **Question 1:** 
 Write a program to create multiple processes (up to 3/4 Levels) using fork() and display their process IDs (getpid()) and parent process ID (getppid()).<br>
